@@ -1,1 +1,1 @@
-# NMoMP_Labs
+NMoMP = Numerical methods of mathematical physics
